@@ -28,7 +28,7 @@ const WhatsAppLink = styled.a`
 function WhatsAppButton() {
   return (
     <WhatsAppLink 
-      href="https://wa.me/2348130290110"
+      href="https://wa.me/905051198952"
       target="_blank"
       rel="noopener noreferrer"
       aria-label="Chat with us on WhatsApp"

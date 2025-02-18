@@ -115,8 +115,8 @@ function Footer() {
             Lagos State, Nigeria
           </p>
           <p>
-            <strong>Email:</strong> info@boxmodels.ng<br />
-            <strong>Phone:</strong> +234 (0) 8130290110
+            <strong>Email:</strong>agencymodel61@gmail.com<br />
+            <strong>Phone:</strong> +905051198952
           </p>
           <SocialLinks>
             <a href="https://facebook.com" target="_blank" rel="noopener noreferrer">
